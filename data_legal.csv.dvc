@@ -1,0 +1,5 @@
+outs:
+- md5: 89aad6805c652ddccf8b10ae662d7a5b
+  size: 79
+  hash: md5
+  path: data_legal.csv
